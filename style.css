@@ -450,9 +450,9 @@ address { font-style: normal; }
 .prize:hover { background: rgba(255,255,255,.05); border-color: rgba(255,255,255,.1); }
 .prize-place  { display: block; font-size: .58rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; margin-bottom: 10px; }
 .prize-amount { display: block; font-size: 1.8rem; font-weight: 300; line-height: 1; letter-spacing: -.02em; }
-.prize-gold   .prize-place, .prize-gold   .prize-amount { color: #C9933A; }
-.prize-silver .prize-place, .prize-silver .prize-amount { color: #8D9BAA; }
-.prize-bronze .prize-place, .prize-bronze .prize-amount { color: #A06A4A; }
+.prize-gold .prize-place, .prize-gold .prize-amount { color: #FFB800; }
+.prize-silver .prize-place, .prize-silver .prize-amount { color: #D1D9E1; }
+.prize-bronze .prize-place, .prize-bronze .prize-amount { color: #CD7F32; }
 
 .award-cats { display: flex; flex-direction: column; gap: 6px; }
 .award-cats li {
